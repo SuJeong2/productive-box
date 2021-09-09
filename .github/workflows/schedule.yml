@@ -16,4 +16,3 @@ jobs:
           GIST_ID: ${{ secrets.GIST_ID }}
           TIMEZONE: Asia/Seoul
 
-
